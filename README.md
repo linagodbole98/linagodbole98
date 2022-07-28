@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Lina Godbole</h1>
 <h3 align="center">A passionate backend developer</h3>
-<img align="right" alt="Coding" width="400" src="https://www.fotolia.com/id/158451784">
+
 - 🔭 I’m currently working on **Backend Development**
 
 - 🌱 I’m currently learning **Nodejs**
